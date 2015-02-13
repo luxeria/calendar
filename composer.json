@@ -1,0 +1,6 @@
+{
+    "require": {
+        "mf2/mf2": "0.2.*",
+        "sabre/vobject" : "~3.3"
+    }
+}

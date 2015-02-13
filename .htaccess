@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteRule ^feeds/talks.ics$        /talks.php [L]
+RewriteRule ^feeds/meetings.ics$     https://www.google.com/calendar/ical/nd35io00863u4mq5js6eq3cij4@group.calendar.google.com/public/basic.ics [R=307,L]
